@@ -1,0 +1,26 @@
+{
+  "name": "classies",
+  "version": "1.0.0",
+  "description": "Simple css class string builder without shenanigans.",
+  "main": "index.js",
+  "scripts": {
+    "test": ":D"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephanHoyer/classies.git"
+  },
+  "keywords": [
+    "css",
+    "classes"
+  ],
+  "author": "Stephan Hoyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StephanHoyer/classies/issues"
+  },
+  "homepage": "https://github.com/StephanHoyer/classies#readme",
+  "devDependencies": {
+    "ospec": "1.3.1"
+  }
+}
