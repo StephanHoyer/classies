@@ -2,7 +2,7 @@
 
 Simple css class string builder without shenanigans.
 
-##usage
+## usage
 
 ```js
 const cls = require('classies')
