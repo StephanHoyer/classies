@@ -4,7 +4,7 @@
   "description": "Simple css class string builder without shenanigans.",
   "main": "index.js",
   "scripts": {
-    "test": ":D"
+    "test": "ospec"
   },
   "repository": {
     "type": "git",
