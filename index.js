@@ -1,9 +1,9 @@
-module.exports =  (def, separator=' ') => {
-  let classes = ''
+module.exports = (def, separator=' ') => {
+  let classes
   for (const cls in def) {
     if (def[cls]) {
-      classes = classes ? classes + separator + cls : cls
+      classes = classes == null ? cls : classes + separator + cls
     }
   }
-  return classes
+  return classes || ''
 }
