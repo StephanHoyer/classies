@@ -19,3 +19,9 @@ let classString = cls({
   [classString]: true
 }, separator) // separator defaults to ' '
 ```
+
+## perfomance
+
+see [jsperf](https://jsperf.com/cls/1)
+
+If you have a better version, feel free to submit a PR.
