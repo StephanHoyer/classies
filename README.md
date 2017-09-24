@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/StephanHoyer/classies.svg?branch=master)](https://travis-ci.org/StephanHoyer/classies)
+
 # classies
 
 Simple css class string builder without shenanigans.
