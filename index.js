@@ -1,9 +1,9 @@
-module.exports = (def, separator=' ') => {
-  let classes = []
-  for (let cls of Object.keys(def)) {
+module.exports =  (def, separator=' ') => {
+  let classes = ''
+  for (const cls in def) {
     if (def[cls]) {
-      classes.push(cls)
+      classes = classes ? cls : classes + separator + cls
     }
   }
-  return classes.join(separator)
+  return classes
 }
