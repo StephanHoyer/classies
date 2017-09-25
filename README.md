@@ -27,4 +27,6 @@ let classString = cls({
 
 see [jsperf](https://jsperf.com/cls/1)
 
+Latest version was done by @isiahmeadows and @gamb.
+
 If you have a better version, feel free to submit a PR.
