@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/StephanHoyer/classies.svg?branch=master)](https://travis-ci.org/StephanHoyer/classies)
 [![Greenkeeper badge](https://badges.greenkeeper.io/StephanHoyer/classies.svg)](https://greenkeeper.io/)
+![](http://img.badgesize.io/StephanHoyer/classies/master/index.js.svg?compression=gzip)
+
 
 Simple css class string builder without shenanigans.
 
