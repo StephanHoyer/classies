@@ -17,11 +17,13 @@ npm install classies
 
 ```js
 const cls = require('classies')
+const isSelected = true
 
 let classString = cls({
   foo: true,
   bar: someCondition,
-  [classString]: true
+  [classString]: true,
+  isSelected,
 }, separator) // separator defaults to ' '
 ```
 
