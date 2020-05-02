@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/StephanHoyer/classies#readme",
   "devDependencies": {
-    "ospec": "4.0.1"
+    "ospec": "4.1.1"
   }
 }
