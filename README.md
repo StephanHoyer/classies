@@ -34,3 +34,8 @@ see [jsperf](https://jsperf.com/cls/1)
 Latest version was done by [@isiahmeadows](https://github.com/isiahmeadows) and [@gamb](https://github.com/gamb).
 
 If you have a better version, feel free to submit a PR.
+
+
+## releases
+
+Releases are automated by [pr-release](http://pr-release.org/)
