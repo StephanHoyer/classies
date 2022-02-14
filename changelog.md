@@ -1,4 +1,12 @@
 
+# Release v1.0.3
+
+### Patch Changes
+
+#### [test autorelease (@StephanHoyer)](https://github.com/StephanHoyer/classies/pull/17)
+
+Ignore node_modules again.  enable auto release.
+
 # Release v1.0.2
 
 ### Patch Changes
