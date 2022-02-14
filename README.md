@@ -1,8 +1,8 @@
 # classies
 
-[![Build Status](https://github.com/StephanHoyer/classies/actions/workflows/merge.yml/badge.svg)
+![Build Status](https://github.com/StephanHoyer/classies/actions/workflows/merge.yml/badge.svg)
 [![Renovate](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com)
-![](http://img.badgesize.io/StephanHoyer/classies/master/index.js.svg?compression=gzip)
+![Compression](http://img.badgesize.io/StephanHoyer/classies/master/index.js.svg?compression=gzip)
 
 Simple css class string builder without shenanigans.
 
