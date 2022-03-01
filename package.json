@@ -1,6 +1,6 @@
 {
   "name": "classies",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple css class string builder without shenanigans.",
   "main": "index.js",
   "scripts": {
