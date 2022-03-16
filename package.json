@@ -19,6 +19,7 @@
   "bugs": {
     "url": "https://github.com/StephanHoyer/classies/issues"
   },
+  "types": "index.d.ts",
   "homepage": "https://github.com/StephanHoyer/classies#readme",
   "devDependencies": {
     "ospec": "4.1.1"
