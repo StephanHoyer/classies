@@ -1,4 +1,15 @@
 
+# Release v1.0.5
+
+### Patch Changes
+
+#### [Adds type definitions (@Artemis69)](https://github.com/StephanHoyer/classies/pull/24)
+
+As you can see, the `null, string, and number` types are here too.  Thats because it can be used too.  Example: ```tsx.
+#### [Update actions/checkout action to v3 (@renovate[bot])](https://github.com/StephanHoyer/classies/pull/22)
+
+[![WhiteSource Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com).  This PR contains the following updates:
+
 # Release v1.0.4
 
 ### Patch Changes
