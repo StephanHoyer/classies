@@ -1,4 +1,12 @@
 
+# Release v1.0.6
+
+### Patch Changes
+
+#### [Update dependency ospec to v4.1.6 (@renovate[bot])](https://github.com/StephanHoyer/classies/pull/25)
+
+[![Mend Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com).  This PR contains the following updates:
+
 # Release v1.0.5
 
 ### Patch Changes
