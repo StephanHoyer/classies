@@ -22,6 +22,6 @@
   "types": "index.d.ts",
   "homepage": "https://github.com/StephanHoyer/classies#readme",
   "devDependencies": {
-    "ospec": "4.1.6"
+    "ospec": "4.2.0"
   }
 }
