@@ -1,4 +1,18 @@
 
+# Release v1.0.9
+
+### Patch Changes
+
+#### [Update actions/checkout action to v4 (@renovate[bot])](https://github.com/StephanHoyer/classies/pull/29)
+
+[![Mend Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com).  This PR contains the following updates:
+#### [Update actions/setup-node action to v4 (@renovate[bot])](https://github.com/StephanHoyer/classies/pull/30)
+
+[![Mend Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com).  This PR contains the following updates:
+#### [Update dependency ospec to v4.2.0 (@renovate[bot])](https://github.com/StephanHoyer/classies/pull/27)
+
+[![Mend Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com).  This PR contains the following updates:
+
 # Release v1.0.6
 
 ### Patch Changes
