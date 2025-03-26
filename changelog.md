@@ -1,4 +1,12 @@
 
+# Release v1.0.10
+
+### Patch Changes
+
+#### [Update dependency ospec to v4.2.1 (@renovate[bot])](https://github.com/StephanHoyer/classies/pull/31)
+
+This PR contains the following updates: | Package | Change | Age | Adoption | Passing | Confidence |.  |---|---|---|---|---|---|.
+
 # Release v1.0.9
 
 ### Patch Changes
