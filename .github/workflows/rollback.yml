@@ -15,7 +15,7 @@ jobs:
         node-version: [16.x]
 
     steps:
-    - uses: actions/checkout@v5
+    - uses: actions/checkout@v7
       with: 
         ref: 'next'
         fetch-depth: 0
